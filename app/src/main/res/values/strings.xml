@@ -29,4 +29,6 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="title_activity_delivery_details">Delivery Details</string>
 
+    <string name="ctg_copyright">COPYRIGHT © SOLUTIONS RESOURCE INC. \n 2014.ALL RIGHTS RESERVED</string>
+
 </resources>
