@@ -3,4 +3,4 @@
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/shattered"
     android:tileMode="repeat">
-</bitmap><!-- From: file:/C:/Users/User/AndroidStudioProjects/CrowdToGo-master1/app/src/main/res/drawable/bg_user_profile.xml -->
+</bitmap><!-- From: file:/D:/AndroidStudioProjects/CrowdToGo/app/src/main/res/drawable/bg_user_profile.xml -->

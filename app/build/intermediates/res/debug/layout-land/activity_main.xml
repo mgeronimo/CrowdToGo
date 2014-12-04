@@ -12,4 +12,4 @@
     <!-- include sliding menu here -->
     <include layout="@layout/listview_item_menu_drawer" />
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/C:/Users/User/AndroidStudioProjects/CrowdToGo-master1/app/src/main/res/layout-land/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/D:/AndroidStudioProjects/CrowdToGo/app/src/main/res/layout-land/activity_main.xml -->

@@ -8,4 +8,4 @@
         android:fromYDelta="0%p"
         android:toYDelta="-30%p"
         android:duration="1000" />
-</set><!-- From: file:/C:/Users/User/AndroidStudioProjects/CrowdToGo-master1/app/src/main/res/anim/slide_up.xml -->
+</set><!-- From: file:/D:/AndroidStudioProjects/CrowdToGo/app/src/main/res/anim/slide_up.xml -->

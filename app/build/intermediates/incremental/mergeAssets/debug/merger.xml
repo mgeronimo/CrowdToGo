@@ -2,77 +2,77 @@
 <merger version="2" >
 
     <dataSet config="20.0.0" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
     </dataSet>
     <dataSet config="1.0.1" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\assets" />
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\assets" />
     </dataSet>
     <dataSet config="4.4.0" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\assets" />
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\assets" />
     </dataSet>
     <dataSet config="6.1.11" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\assets" />
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets" >
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets" >
             <file
                 name="fonts/Gotham-Black.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Black.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Black.ttf" />
             <file
                 name="fonts/Gotham-BlackItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-BlackItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-BlackItalic.ttf" />
             <file
                 name="fonts/Gotham-Bold.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Bold.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Bold.ttf" />
             <file
                 name="fonts/Gotham-BoldItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-BoldItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-BoldItalic.ttf" />
             <file
                 name="fonts/Gotham-Book.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Book.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Book.ttf" />
             <file
                 name="fonts/Gotham-BookItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-BookItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-BookItalic.ttf" />
             <file
                 name="fonts/Gotham-Light.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Light.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Light.ttf" />
             <file
                 name="fonts/Gotham-LightItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-LightItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-LightItalic.ttf" />
             <file
                 name="fonts/Gotham-Medium.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Medium.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Medium.ttf" />
             <file
                 name="fonts/Gotham-MediumItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-MediumItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-MediumItalic.ttf" />
             <file
                 name="fonts/Gotham-Thin.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Thin.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Thin.ttf" />
             <file
                 name="fonts/Gotham-ThinItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-ThinItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-ThinItalic.ttf" />
             <file
                 name="fonts/Gotham-Ultra.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-Ultra.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-Ultra.ttf" />
             <file
                 name="fonts/Gotham-UltraItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-UltraItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-UltraItalic.ttf" />
             <file
                 name="fonts/Gotham-XLight.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-XLight.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-XLight.ttf" />
             <file
                 name="fonts/Gotham-XLightItalic.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Gotham-XLightItalic.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Gotham-XLightItalic.ttf" />
             <file
                 name="fonts/Lato-Bold.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Lato-Bold.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Lato-Bold.ttf" />
             <file
                 name="fonts/Lato-Regular.ttf"
-                path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\main\assets\fonts\Lato-Regular.ttf" />
+                path="D:\AndroidStudioProjects\CrowdToGo\app\src\main\assets\fonts\Lato-Regular.ttf" />
         </source>
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\User\AndroidStudioProjects\CrowdToGo-master1\app\src\debug\assets" />
+        <source path="D:\AndroidStudioProjects\CrowdToGo\app\src\debug\assets" />
     </dataSet>
 
 </merger>
